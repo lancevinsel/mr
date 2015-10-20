@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/vifm.git]
+checkout = vcsh clone git://github.com/lancevinsel/vcsh-vifm.git vifm

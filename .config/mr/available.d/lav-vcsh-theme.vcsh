@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/lav-zsh-theme.git]
+checkout = vcsh clone git://github.com/lancevinsel/vcsh-lav-zsh-theme.git lav-zsh-theme

@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/Xresources.git]
+checkout = vcsh clone git://github.com/lancevinsel/vcsh-Xresources.git Xresources
