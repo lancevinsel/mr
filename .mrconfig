@@ -29,3 +29,6 @@ checkout = git clone 'https://github.com/robbyrussell/oh-my-zsh.git' '.oh-my-zsh
 
 [.vifm/colors]
 checkout = git clone 'https://github.com/vifm/vifm-colors' 'colors'
+
+[.irssi/scripts.irssi.org.git]
+checkout = git clone 'https://github.com/irssi/scripts.irssi.org.git' 'scripts.irssi.org.git'
